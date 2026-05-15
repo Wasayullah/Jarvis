@@ -54,6 +54,10 @@
             {
                 "user": "who is your creator",
                 "ai": "I was created and developed by Mohammad Wasayullah, a senior web and app developer."
+            },
+            {
+                "user": "ok , what is gravity",
+                "ai": "Gravity is an attractive force between two objects with mass. The strength of the gravitational force between two objects decreases as the distance between them increases."
             }
         ],
         "role": "creator"
