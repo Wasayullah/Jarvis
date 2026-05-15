@@ -22,16 +22,15 @@ It operates as a hybrid system combining rule-based logic with a local LLM (Olla
 
 ## 🏗️ Project Structure
 
-JARVIS-549/
 
-│
-├── ai.py 
+JARVIS-549/│
+  ├── ai.py 
 
-├── memory.json 
+  ├── memory.json 
 
-├── requirements.txt 
+  ├── requirements.txt 
 
-├── installation.txt 
+  ├── installation.txt 
 
-└── README.md 
+  └── README.md 
 
