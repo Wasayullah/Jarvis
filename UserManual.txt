@@ -1,0 +1,173 @@
+=====================================================
+🤖 JARVIS-549 AI ASSISTANT - USER MANUAL
+Developed by: Mohammad Wasayullah
+=====================================================
+
+WELCOME
+-------
+Jarvis-549 is an intelligent Python-based AI assistant that helps you with:
+- System automation
+- AI conversations
+- Web search
+- Programming help
+- Daily tasks
+
+It works in two modes:
+1. Rule-Based Mode (fast responses)
+2. AI Mode (Ollama Qwen model)
+
+-----------------------------------------------------
+🟢 HOW TO START
+-----------------------------------------------------
+
+Run the assistant:
+
+>>> python main.py
+
+Or GUI version:
+
+Then enter your name when asked.
+
+Example:
+Enter your name: Mohammad
+
+Jarvis will now personalize responses for you.
+
+-----------------------------------------------------
+🧠 BASIC USAGE
+-----------------------------------------------------
+
+You can type natural language commands like:
+
+GREETING:
+- hello
+- hi
+- how are you
+
+SYSTEM INFO:
+- what is your name
+- who are you
+- what can you do
+
+TIME & DATE:
+- what is the time
+- tell me the date
+
+-----------------------------------------------------
+💻 SYSTEM COMMANDS
+-----------------------------------------------------
+
+Open applications:
+
+- open chrome
+- open notepad
+- open calculator
+- open cmd
+- open vscode
+- open python
+
+-----------------------------------------------------
+🌐 WEB COMMANDS
+-----------------------------------------------------
+
+- open youtube
+- open google
+- open github
+- open whatsapp
+
+-----------------------------------------------------
+📖 WIKIPEDIA SEARCH
+-----------------------------------------------------
+
+Search any topic:
+
+Example:
+- search wikipedia gravity
+- search wikipedia black hole
+- search wikipedia python programming
+
+-----------------------------------------------------
+🎵 MEDIA COMMANDS
+-----------------------------------------------------
+
+Play YouTube video:
+- play desi music
+- play coding tutorial
+
+Spotify search:
+- spotify larsha pekhawar ta
+
+-----------------------------------------------------
+🌦️ WEATHER COMMANDS
+-----------------------------------------------------
+
+- weather in Karachi
+- tell me the weather in London
+
+Jarvis will ask for city if not provided.
+
+-----------------------------------------------------
+📸 UTILITIES
+-----------------------------------------------------
+
+- take screenshot
+- screenshot
+
+Jarvis will save a screenshot in your folder.
+
+-----------------------------------------------------
+🧠 AI MODE (ADVANCED)
+-----------------------------------------------------
+
+If Jarvis does not understand your command, it will automatically use AI.
+
+Example:
+- explain machine learning
+- write python code for calculator
+- debug my code
+- what is recursion
+
+-----------------------------------------------------
+👑 CREATOR MODE
+-----------------------------------------------------
+
+If you enter your creator name:
+
+Mohammad / Mohammad Wasayullah
+
+Jarvis will:
+- Give advanced technical answers
+- Prioritize responses
+- Act like a senior developer assistant
+
+-----------------------------------------------------
+💡 EXAMPLE CONVERSATIONS
+-----------------------------------------------------
+
+You: hello
+Jarvis: Hello! How can I assist you today?
+
+You: who created you
+Jarvis: I was created and developed by Mohammad Wasayullah.
+
+You: open chrome
+Jarvis: Opening chrome...
+
+You: explain python loops
+Jarvis: (AI explanation appears)
+
+-----------------------------------------------------
+⚠️ IMPORTANT NOTES
+-----------------------------------------------------
+
+- Internet is required for AI features and Wikipedia
+- Ollama must be running for AI responses
+- Keep memory.json in same folder
+- Do not rename core files unless you know the system
+
+-----------------------------------------------------
+🚀 END OF MANUAL
+-----------------------------------------------------
+
+Developed with intelligence by Mohammad Wasayullah
+=====================================================
