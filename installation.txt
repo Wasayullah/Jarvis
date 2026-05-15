@@ -16,4 +16,4 @@ https://ollama.com
 Then run:
 ollama run qwen:latest
 
-python ai.py
+python main.py
