@@ -360,10 +360,14 @@ def get_weather(city):
         return "I couldn't fetch the weather data. Please try again later."
 
 def take_screenshot():
-    """Takes a screenshot and saves it"""
+    """Takes a screenshot and saves it inside screenshots folder"""
+    folder = "screenshots"
+    os.makedirs(folder, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    file_path = os.path.join(folder, f"screenshot_{timestamp}.png")
     screenshot = pyautogui.screenshot()
-    screenshot.save("screenshot.png")
-    return "Screenshot taken and saved."
+    screenshot.save(file_path)
+    return f"Screenshot saved at {file_path}"
 def open_vscode():
     path = r"C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code Insiders\Code - Insiders.exe"
     os.startfile(path)
