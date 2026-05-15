@@ -1,0 +1,19 @@
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/your-username/Jarvis-549.git
+cd Jarvis-549
+
+pip install -r requirements.txt
+
+Download Ollama:
+https://ollama.com
+
+Then run:
+ollama run qwen:latest
+
+python ai.py
